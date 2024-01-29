@@ -1,1 +1,4 @@
 เพิ่มไฟล์ new-1.txt ใน directory ใหม่ (git102) แล้ว push ไปที่ github
+
+
+## แก้แล้วนะเว่ย!!
